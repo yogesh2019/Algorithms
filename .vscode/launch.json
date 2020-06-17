@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "1 Geeks Algorithms_17324297"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountingSetTest",
+            "request": "launch",
+            "mainClass": "CountingSetTest",
+            "projectName": "1 Geeks Algorithms_17324297"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeSort<1 Geeks Algorithms_17324297>",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "1 Geeks Algorithms_17324297"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickSort<1 Geeks Algorithms_17324297>",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "1 Geeks Algorithms_17324297"
+        }
+    ]
+}
