@@ -1,3 +1,5 @@
+// changing for the test
+
 public class BinarySearch {
     // the time comp is = O(n)
     public static void main(String args[])
